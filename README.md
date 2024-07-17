@@ -34,12 +34,7 @@ terragrunt
 
 ## How to Use
 
-1. **Clone the repository**:
-
-   ```
-   git clone <repository-url>
-   cd terragrunt-gcp-poc
-   ```
+1. **Clone the repository**
 
 2. **Change to the desired environment** (dev or prod):
 
